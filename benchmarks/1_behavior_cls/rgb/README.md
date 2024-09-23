@@ -83,7 +83,7 @@ Stage 1: Cow Detection
     ```bash
     python cow_detection/train_yolov8.py --data_directory ../organized_data --epochs 20 --batch_size 16
     ```
-    This will train the yolov8 model for all the folds in ./organized_data. Reducing batch size if you run out of memory (e.g. 8GB: 4, 32GB: 16).
+    This will train the yolov8 model for all the folds in ./organized_data. Reducing batch size if you run out of memory (e.g. 8GB: 4, 32GB: 16). You should delete everything inside the "runs" folder before rerunning the above command.
 
 
 2. Testing:
