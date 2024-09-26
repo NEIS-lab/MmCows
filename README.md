@@ -276,3 +276,16 @@ Annotation Rules
 Details of annotation rules for cow ID and behavior are provided in [this online document](https://docs.google.com/document/d/1NAfwlkVOnybEZPSC2KwAE4i7GHH12huKUijDDizSxiI/edit?usp=sharing). We used [VGG Image Annotator (VIA)](https://www.robots.ox.ac.uk/~vgg/software/via/) to annotate the cow ID. The VIA json files for lying, non-lying, and combined ID lables are available upon request.
 
 The annotation of cow ID is visualized using multi camera views in [this video](https://purdue0-my.sharepoint.com/:v:/g/personal/vu64_purdue_edu/EUu1qcJUgjNGi8WiQyzjyrABFhwl_RS2b22NjkFYgdZi_w?e=m1H9Qt) (4k, 3.6 GB).
+
+<br />
+
+Citation
+-----
+```
+@article{vu2024mmcows,
+  title={MmCows: A Multimodal Dataset for Dairy Cattle Monitoring},
+  author={Hien Vu, Omkar Prabhune, Unmesh Raskar, Dimuth Panditharatne, Hanwook Chung, Christopher Choi, and Younghyun Kim},
+  journal={Advances in Neural Information Processing Systems},
+  year={2024}
+}
+```
