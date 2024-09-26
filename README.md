@@ -282,10 +282,10 @@ The annotation of cow ID is visualized using multi camera views in [this video](
 Citation
 -----
 ```
-@article{vu2024mmcows,
-  title={MmCows: A Multimodal Dataset for Dairy Cattle Monitoring},
-  author={Hien Vu, Omkar Prabhune, Unmesh Raskar, Dimuth Panditharatne, Hanwook Chung, Christopher Choi, and Younghyun Kim},
-  journal={Advances in Neural Information Processing Systems},
-  year={2024}
+@inproceedings{mmcows,
+  title = {MmCows: A Multimodal Dataset for Dairy Cattle Monitoring},
+  author = {Hien Vu and Omkar Prabhune and Unmesh Raskar and Dimuth Panditharatne and Hanwook Chung and Christopher Choi and Younghyun Kim},
+  booktitle = {Proceedings of the Conference on Neural Information Processing Systems (NeurIPS)},
+  year = {2024}
 }
 ```
