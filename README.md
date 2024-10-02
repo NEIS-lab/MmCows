@@ -289,3 +289,5 @@ Citation
   year = {2024}
 }
 ```
+
+For any inquiries or assistance, please feel free to reach out to us at ```hienvu [at] purdue.edu``` ([Hien Vu](https://hienvu.github.io)).
