@@ -290,4 +290,4 @@ Citation
 }
 ```
 
-For any inquiries or assistance, please feel free to reach out to us at ```hienvu [at] purdue.edu``` ([Hien Vu](https://hienvu.github.io)).
+For any inquiries or assistance, please feel free to reach out to us at ```hienvu [at] purdue.edu``` ([Hien Vu](https://hienvuvg.github.io)).
