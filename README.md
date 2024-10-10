@@ -152,13 +152,13 @@ ${ROOT}
 | ```immu```| Acceleration and magnetic at the neck of the cows | 0.1 s | 14 d   |
 | ```pressure``` | Ambient air pressure at the cows' neck | 0.1 s  | 14 d    |
 |```cbt```   | Core body temperature of the cow | 60 s    | 14 d |
-| ```ankle``` | Ankle acceleration recorded by ankle sensors | 60 s  | 14 d   |
+| ```ankle``` | Lying behavior calculated from the ```ankle_accel``` | 60 s  | 14 d   |
 | ```thi``` | Indoor temperature, humidity, and THI around the pen | 60 s  | 14 d   |
 |```weather```  |  Outdoor weather collected by a near by weather station |  300 s  | 14 d | 
 |```milk```    | Daily milk yield of each cow in kg | 1 d  | 14 d | 
 | ```uwb_distance``` | Distances from the tags to the anchors | 15 s  | 14 d |
-|```hd```| Head direction calculated from the ```immu``` data | 0.1 s|14 d| 
-| ```lnl``` | Lying behavior calculated from the ```ankle``` | 60 s  | 14 d   |
+|```head_direction```| Head direction calculated from the ```immu``` data | 0.1 s|14 d| 
+| ```ankle_accel``` | Ankle acceleration recorded by ankle sensors | 60 s  | 14 d   |
 |```visual_location``` | 3D body location computed from the annotated visual data | 15 s | 1 d | 
 |```health_records``` | Health records of the cows | - | - | 
 |```behavior_labels```| Manually annotated behavior labels of the cows  | 1 s | 1 d | 
