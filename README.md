@@ -129,14 +129,14 @@ ${ROOT}
 |   |   |-- magnetic
 |   |-- pressure
 |   |-- cbt
-|   |-- ankle (to be swapped)
+|   |-- ankle
 |   |-- thi
 |   |-- weather
 |   |-- milk
 |-- sub_data
 |   |-- uwb_distance
-|   |-- hd (to be renamed)
-|   |-- lnl (to be swapped)
+|   |-- head_direction
+|   |-- ankle_accel
 |   |-- visual_location
 |   |-- health_records
 |-- behavior_labels
